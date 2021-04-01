@@ -3,7 +3,7 @@ src="https://cardivo.vercel.app/api?name=Irfan%20Hariyanto&description=Hi,%20i%2
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shitara999)
 ## Helloo Guys<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-Hi, I'm Riyan, You Can call me as Riyan, I'm an 14 y.o and I'm still a student at SMPN 5 Sumenep
+Hi, I'm Irfan Hariyanto, You Can call me as Riyan, I'm an 14 y.o and I'm still a student at SMPN 5 Sumenep
 <br>
 <h1 align="center">リヤン〜<br>Riyan here!</h1>
 <img align="center" height="auto" src="https://i.ibb.co/VtWZcj7/a6394d710d9b.jpg"/>
