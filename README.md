@@ -9,7 +9,7 @@ Hi, I'm Irfan Hariyanto, You Can call me as Riyan, I'm an 14 y.o and I'm still a
 <img align="center" height="auto" src="https://i.ibb.co/VtWZcj7/a6394d710d9b.jpg"/>
 
 <p align='center'>
-   <a href="https://wa.me/6285791458996"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://wa.me/6285791458996?text=Hallo+Riyan"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/yannnnn.zz_"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </P>
 
