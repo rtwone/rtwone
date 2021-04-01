@@ -16,3 +16,19 @@ src="https://cardivo.vercel.app/api?name=Irfan%20Hariyanto&description=Hi,%20i%2
 
 * [`WhatsApp`](https://wa.me/6285791458996)
 * [`Instagram`](https://instagram.com/yannnnn.zz_)
+
+## About me
+```js
+const riyan = () => {
+  return {
+    pronouns: "She" | "Her",
+    technologies:{
+        backEnd: "ExpressJs"
+    },
+    social:{
+        Whatsapp : "https://api.whatsapp.com/send?phone=6285791458996&text=Hallo+Riyan",
+        Instagram : "https://www.instagram.com/yannnnn.zz_"
+    }
+  }
+}
+```
