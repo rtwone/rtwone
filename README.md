@@ -14,7 +14,7 @@ Hi, I'm Irfan Hariyanto, You Can call me as Riyan, I'm an 14 y.o and I'm still a
 </P>
 
 :page_with_curl: The script I use:
-- Javascript
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
