@@ -14,7 +14,7 @@ Hi, I'm Irfan Hariyanto, You Can call me as Riyan.
 </P>
 
 :page_with_curl: The script I use:
-<br>[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+<br>[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://github.com/rtwone/chitandabot)
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
