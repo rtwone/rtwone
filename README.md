@@ -1,5 +1,5 @@
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=Irfan%20Hariyanto&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://avatars.githubusercontent.com/u/78160909?s=400&u=acb8f5ca5c6f9a886400758a7e2eec42ca4fe91a&v=4&backgroundColor=%23ecf0f1&instagram=yannnnn.zz_&github=rtwone&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=Irfan%20Hariyanto&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://avatars.githubusercontent.com/u/78160909?s=400&u=acb8f5ca5c6f9a886400758a7e2eec42ca4fe91a&v=4&backgroundColor=%23ecf0f1&instagram=irfann._x&github=rtwone&pattern=leaf&colorPattern=%23eaeaea"/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rtwone)
 ## Helloo Guys<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
