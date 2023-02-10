@@ -20,10 +20,9 @@ Hi, I'm Irfan Hariyanto, You Can call me as Riyan.
 ```js
 const riyan = () => {
   return {
-    pronouns: "She" | "Her",
-    technologies:{
-        backEnd: "ExpressJs"
-    }
+    pronouns: "He" | "Him",
+    country: "Indonesia",
+    bio: "Only god can judge me."
   }
 }
 ```
