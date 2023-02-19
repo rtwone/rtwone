@@ -38,5 +38,5 @@ const riyan = () => {
 ```
 ### Github Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rtwone&repo=chitandabot&show_owner=true&theme=radical)](https://github.com/rtwone/chitandabot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rtwone&repo=openai-botwa&show_owner=true&theme=radical)](https://github.com/rtwone/openai-botwa)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=rtwone&repo=chitandabot&show_owner=true&theme=radical)](https://github.com/rtwone/chitandabot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=rtwone&repo=openai-botwa&show_owner=true&theme=radical)](https://github.com/rtwone/openai-botwa)
