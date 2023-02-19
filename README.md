@@ -15,7 +15,9 @@ Hi, I'm Irfan Hariyanto, You Can call me as Riyan.
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-rtwone.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31peidtjmv4itssgg5awhg24mxoe?si=yvKmz8vFQY2YQZOz5PEbPg&utm_source=copy-link)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31peidtjmv4itssgg5awhg24mxoe)
 
+### Stastik
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ![Rtwone's github stats](https://github-readme-stats.vercel.app/api?username=rtwone&show_icons=true&theme=radical)
@@ -24,7 +26,7 @@ Hi, I'm Irfan Hariyanto, You Can call me as Riyan.
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="70">
 
-### ABOUT ME
+### About Me
 ```js
 const riyan = () => {
   return {
