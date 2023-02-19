@@ -14,9 +14,9 @@ Hi, I'm Irfan Hariyanto, You Can call me as Riyan.
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtwone&show_icons=true&theme=dracula)
+![Rtwone's github stats](https://github-readme-stats.vercel.app/api?username=rtwone&show_icons=true&theme=radical)
 
-![Rtwone's github stats](https://github-readme-stats.vercel.app/api?username=rtwone&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtwone&show_icons=true&layout=compact&theme=radical)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="70">
 
@@ -32,5 +32,5 @@ const riyan = () => {
 ```
 ### Github Repository
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rtwone&repo=chitandabot&show_owner=true&theme=dracula)](https://github.com/rtwone/chitandabot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rtwone&repo=openai-botwa&show_owner=true&theme=dracula)](https://github.com/rtwone/openai-botwa)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rtwone&repo=chitandabot&show_owner=true&theme=radical)](https://github.com/rtwone/chitandabot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rtwone&repo=openai-botwa&show_owner=true&theme=radical)](https://github.com/rtwone/openai-botwa)
