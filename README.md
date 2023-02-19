@@ -6,8 +6,7 @@ src="https://cardivo.vercel.app/api?name=Irfan%20Hariyanto&description=Hi,%20i%2
   <img src="https://profile-counter.glitch.me/rtwone/count.svg" />
 </p>
 
-## Helloo Guys
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Helloo Guys <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 Hi, I'm Irfan Hariyanto, You Can call me as Riyan.
 <br>
 <h1 align="center">リヤン 〜<br>Riyan here!</h1>
@@ -19,7 +18,9 @@ Hi, I'm Irfan Hariyanto, You Can call me as Riyan.
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
-![Shitara github stats](https://github-readme-stats.vercel.app/api?username=rtwone&show_icons=true&theme=tokyonight)
+![Rtwone's github stats](https://github-readme-stats.vercel.app/api?username=rtwone&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
 
 ## ABOUT ME
 ```js
@@ -31,3 +32,7 @@ const riyan = () => {
   }
 }
 ```
+### Github Repository
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rtwone&repo=chitandabot&show_owner=true)](https://github.com/rtwone/chitandabot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rtwone&repo=openai-botwa&show_owner=true)](https://github.com/rtwone/openai-botwa)
