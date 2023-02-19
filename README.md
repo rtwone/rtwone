@@ -12,11 +12,9 @@ Hi, I'm Irfan Hariyanto, You Can call me as Riyan.
 <h1 align="center">リヤン 〜<br>Riyan here!</h1>
 <img align="center" height="auto" src="https://avatars.githubusercontent.com/u/78160909?s=400&u=acb8f5ca5c6f9a886400758a7e2eec42ca4fe91a"/>
 
-:page_with_curl: The script I use:
-<br>[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://github.com/rtwone/chitandabot)
-
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtwone&show_icons=true&theme=merko)
 
 ![Rtwone's github stats](https://github-readme-stats.vercel.app/api?username=rtwone&show_icons=true&theme=merko)
 
