@@ -24,7 +24,7 @@ Hi, I'm Irfan Hariyanto, You Can call me as Riyan.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtwone&show_icons=true&layout=compact&theme=radical)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="70">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 
 ### About Me
 ```js
