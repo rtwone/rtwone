@@ -40,4 +40,4 @@ const riyan = () => {
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=rtwone&repo=chitandabot&show_owner=true&theme=radical)](https://github.com/rtwone/chitandabot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=rtwone&repo=openai-botwa&show_owner=true&theme=radical)](https://github.com/rtwone/openai-botwa)
 
-Ingin membuat Bot WhatsApp mu sendiri? atau Bot WhatsApp usahamu? seperti Bot Laundry atau Bot Jualan produkmu, kamu bisa hubungi saya di [`wa.me/628990006676`](https://wa.me/628990006676)
+Ingin membuat Bot WhatsApp mu sendiri? atau Bot WhatsApp usahamu? seperti Bot Laundry atau Bot Jualan produkmu, kamu bisa hubungi saya di [`wa.me/628988808885](https://wa.me/628988808885)
