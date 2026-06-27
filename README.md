@@ -3,7 +3,7 @@ src="https://cardivo.vercel.app/api?name=Irfan%20Hariyanto&description=Hi,%20i%2
 
 <p align="center"> 
   Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/rtwone/count.svg" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rtwone.rtwone" />
 </p>
 
 ## Helloo Guys <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
