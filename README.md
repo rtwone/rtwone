@@ -56,7 +56,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtwone&theme=radical&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rtwone&theme=dark&hide_border=true&locale=jv&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtwone&theme=radical&layout=compact&hide_border=true&bg_color=0d1117)
 
