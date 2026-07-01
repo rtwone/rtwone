@@ -4,7 +4,7 @@
 
 ![Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,11,10,9,8,7&height=250&section=header&text=WELCOME!&fontSize=60&fontColor=fff)
 
-**🤖 Full Stack Developer | 🧠 Bot Specialist | 🚀 AI Enthusiast**
+**🧠 Bot WhatsApp Specialist | 🚀 AI Enthusiast**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rtwone&color=blueviolet&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/rtwone?style=social)](https://github.com/rtwone)
