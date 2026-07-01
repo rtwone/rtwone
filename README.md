@@ -119,7 +119,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7ZtpWwQOGlDjemDK/giphy.gif" width="200" alt="celebrate">
+<img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="125" alt="celebrate">
 
 ### ⭐ Thanks for visiting! Don't forget to star my repos! ⭐
 
