@@ -23,7 +23,6 @@
 
 - 🤖 **Specialist** in Bot Automation (WhatsApp, Telegram, AI-powered)
 - 🧠 **Expert** in AI Integration & OpenAI APIs
-- 💪 **Full Stack** JavaScript, C#, Node.js, Vue.js
 - 🔥 **Passionate** about solving real problems
 - 🌱 **Always learning** new tech & best practices
 
