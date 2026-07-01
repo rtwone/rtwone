@@ -15,10 +15,6 @@
 
 ## 🎬 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoRKslHVtqgMwv0aX/giphy.gif" width="300" alt="coding">
-</div>
-
 > 💻 Building smart automation solutions with clean code & thoughtful design
 
 - 🤖 **Specialist** in Bot Automation (WhatsApp, Telegram, AI-powered)
