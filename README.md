@@ -79,24 +79,6 @@
 
 ---
 
-## 💪 Skills Rating
-
-<div align="center">
-
-```
-Bot Development (WhatsApp/Telegram)  ⭐⭐⭐⭐⭐
-JavaScript/Node.js                   ⭐⭐⭐⭐⭐
-AI Integration & OpenAI              ⭐⭐⭐⭐⭐
-Full Stack Development               ⭐⭐⭐⭐⭐
-C# & Windows Forms                   ⭐⭐⭐⭐
-System Design & Architecture         ⭐⭐⭐⭐
-Database Design (MySQL)              ⭐⭐⭐⭐
-```
-
-</div>
-
----
-
 ## 🎯 What I'm Working On
 
 <div align="center">
