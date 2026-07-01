@@ -72,7 +72,6 @@
 | 🤖 **Baileys Base** | WhatsApp Bot Framework with AI Integration |
 | 🧠 **OpenAI Bot** | Intelligent WhatsApp Bot powered by AI |
 | 🏥 **RSUD System** | Complete Hospital Management System |
-| ⚡ **Shopee FlashBot** | E-commerce Automation with NTP Sync |
 | 📱 **Multi-Bot Collection** | Telegram & WhatsApp Bots Library |
 
 </div>
@@ -82,26 +81,13 @@
 ## 🎯 What I'm Working On
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2AN3A2/giphy.gif" width="250" alt="working">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250" alt="working">
 </div>
 
 - 🔧 Building scalable automation solutions
 - 🧪 Experimenting with AI in practical apps
 - 📚 Learning modern system design patterns
 - 🤝 Collaborating on interesting projects
-
----
-
-## 🎁 Fun Facts
-
-```
-🤖 Passionate about automation & AI
-💻 Coding + Coffee = Perfect combo
-📱 Always experimenting with new tech
-🚀 Goal: Create positive impact through tech
-⚡ Love solving complex problems
-❤️ Believe in open source & community
-```
 
 ---
 
