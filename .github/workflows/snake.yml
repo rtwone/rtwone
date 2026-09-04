@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
