@@ -45,7 +45,7 @@ I am an **Informatics student** interested in **technology**, **design**, and **
 
 <br />
 
-## Technical skills
+## Technical Skills
 
 <div align="left">
 
