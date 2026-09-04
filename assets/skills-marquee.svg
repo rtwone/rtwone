@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 92" width="1240" height="92" role="img" aria-label="Technical skills">
+  <title>Technical skills</title>
+  <rect width="1240" height="92" fill="#090c12" rx="8"/>
+  <g transform="translate(24 14)">
+    <animateTransform attributeName="transform" type="translate" values="24 14; -70 14; 24 14" dur="12s" repeatCount="indefinite" calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+    <g>
+      <rect width="54" height="54" fill="#FDE047" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/javascript.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(74)">
+      <rect width="54" height="54" fill="#FDE047" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/typescript.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(148)">
+      <rect width="54" height="54" fill="#FDE047" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/csharp.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(222)">
+      <rect width="54" height="54" fill="#FDE047" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/nodejs.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(296)">
+      <rect width="54" height="54" fill="#FDE047" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/mysql.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(370)">
+      <rect width="54" height="54" fill="#F9A8D4" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/xampp.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(444)">
+      <rect width="54" height="54" fill="#F9A8D4" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/git.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(518)">
+      <rect width="54" height="54" fill="#F9A8D4" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/vscode.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(592)">
+      <rect width="54" height="54" fill="#F9A8D4" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/github-light.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(666)">
+      <rect width="54" height="54" fill="#F9A8D4" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/github-copilot-light.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(740)">
+      <rect width="54" height="54" fill="#A7F3D0" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/figma.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(814)">
+      <rect width="54" height="54" fill="#A7F3D0" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/canva.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(888)">
+      <rect width="54" height="54" fill="#A7F3D0" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/photoshop.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(962)">
+      <rect width="54" height="54" fill="#A7F3D0" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/premiere.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(1036)">
+      <rect width="54" height="54" fill="#BAE6FD" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/illustrator.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+    <g transform="translate(1110)">
+      <rect width="54" height="54" fill="#BAE6FD" stroke="#f5f7fa" stroke-width="2"/>
+      <image href="icons/coreldraw.svg" x="12" y="12" width="30" height="30"/>
+    </g>
+  </g>
+</svg>
