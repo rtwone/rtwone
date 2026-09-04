@@ -1,22 +1,4 @@
-<table width="100%" border="0">
-  <tr>
-    <td><sub>P O R T F O L I O &nbsp; · &nbsp; 0 0 1</sub></td>
-    <td align="right"><sub>B A C K E N D &nbsp; / &nbsp; A I &nbsp; / &nbsp; A U T O M A T I O N</sub></td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <br />
-      <h1>Irfan Hariyanto</h1>
-      <hr width="180" align="left" />
-      <p><strong>Backend engineer and automation builder</strong><br />Building practical systems, AI integrations, and reliable developer tools.</p>
-      <br />
-    </td>
-  </tr>
-  <tr>
-    <td><sub>WHATSAPP · TELEGRAM · OPENAI · REST API</sub></td>
-    <td align="right"><a href="https://github.com/rtwone">github.com/rtwone</a></td>
-  </tr>
-</table>
+<img src="assets/hero.svg" width="100%" alt="Irfan Hariyanto - backend engineer and automation builder" />
 
 <br />
 
