@@ -50,28 +50,28 @@ I am an **Informatics student** interested in **technology**, **design**, and **
 
 <table width="100%" border="0" cellpadding="5" cellspacing="4">
   <tr>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/javascript.svg" width="24" height="24" alt="JavaScript" />&nbsp; <strong>JavaScript</strong></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/typescript.svg" width="24" height="24" alt="TypeScript" />&nbsp; <strong>TypeScript</strong></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/csharp.svg" width="24" height="24" alt="C#" />&nbsp; <strong>C#</strong></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/nodejs.svg" width="24" height="24" alt="NodeJS" />&nbsp; <strong>NodeJS</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/javascript.svg" width="24" height="24" alt="JavaScript" />&nbsp; <strong>JavaScript</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/typescript.svg" width="24" height="24" alt="TypeScript" />&nbsp; <strong>TypeScript</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/csharp.svg" width="24" height="24" alt="C#" />&nbsp; <strong>C#</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/nodejs.svg" width="24" height="24" alt="NodeJS" />&nbsp; <strong>NodeJS</strong></td>
   </tr>
   <tr>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/mysql.svg" width="24" height="24" alt="MySQL" />&nbsp; <strong>MySQL</strong></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/xampp.svg" width="24" height="24" alt="XAMPP" />&nbsp; <strong>XAMPP</strong></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/git.svg" width="24" height="24" alt="Git" />&nbsp; <strong>Git</strong></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/vscode.svg" width="24" height="24" alt="VS Code" />&nbsp; <strong>VS Code</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/mysql.svg" width="24" height="24" alt="MySQL" />&nbsp; <strong>MySQL</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/xampp.svg" width="24" height="24" alt="XAMPP" />&nbsp; <strong>XAMPP</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/git.svg" width="24" height="24" alt="Git" />&nbsp; <strong>Git</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/vscode.svg" width="24" height="24" alt="VS Code" />&nbsp; <strong>VS Code</strong></td>
   </tr>
   <tr>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/github-dark.svg" width="24" height="24" alt="GitHub" />&nbsp; <strong>GitHub</strong></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/github-copilot-dark.svg" width="24" height="24" alt="GitHub Copilot" />&nbsp; <strong>GitHub Copilot</strong></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/figma.svg" width="24" height="24" alt="Figma" />&nbsp; <strong>Figma</strong></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/canva.svg" width="24" height="24" alt="Canva" />&nbsp; <strong>Canva</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/github-dark.svg" width="24" height="24" alt="GitHub" />&nbsp; <strong>GitHub</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/github-copilot-dark.svg" width="24" height="24" alt="GitHub Copilot" />&nbsp; <strong>GitHub Copilot</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/figma.svg" width="24" height="24" alt="Figma" />&nbsp; <strong>Figma</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/canva.svg" width="24" height="24" alt="Canva" />&nbsp; <strong>Canva</strong></td>
   </tr>
   <tr>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/photoshop.svg" width="24" height="24" alt="Adobe Photoshop" />&nbsp; <strong>Photoshop</strong></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/premiere.svg" width="24" height="24" alt="Adobe Premiere" />&nbsp; <strong>Premiere</strong></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/illustrator.svg" width="24" height="24" alt="Adobe Illustrator" />&nbsp; <strong>Illustrator</strong></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/coreldraw.svg" width="24" height="24" alt="CorelDRAW" />&nbsp; <strong>CorelDRAW</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/photoshop.svg" width="24" height="24" alt="Adobe Photoshop" />&nbsp; <strong>Photoshop</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/premiere.svg" width="24" height="24" alt="Adobe Premiere" />&nbsp; <strong>Premiere</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/illustrator.svg" width="24" height="24" alt="Adobe Illustrator" />&nbsp; <strong>Illustrator</strong></td>
+    <td valign="middle" bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/coreldraw.svg" width="24" height="24" alt="CorelDRAW" />&nbsp; <strong>CorelDRAW</strong></td>
   </tr>
 </table>
 
