@@ -4,8 +4,7 @@
 
 ### Backend Engineer · Automation Builder · AI Enthusiast
 
-[![English](https://img.shields.io/badge/English-22D3EE?style=for-the-badge&logo=readme&logoColor=0A101F)](README.md)
-[![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-A78BFA?style=for-the-badge&logo=readme&logoColor=0A101F)](README.id.md)
+Building practical automation systems, AI integrations, and reliable developer tools.
 
 [![GitHub followers](https://img.shields.io/github/followers/rtwone?label=Followers&style=flat-square&color=7C3AED)](https://github.com/rtwone)
 [![Profile views](https://komarev.com/ghpvc/?username=rtwone&style=flat-square&color=0891B2)](https://github.com/rtwone)
@@ -15,9 +14,7 @@
 
 <br />
 
-Building practical automation systems, AI integrations, and reliable developer tools.
-
-### What I Build
+## What I Build
 
 <div align="center">
 
