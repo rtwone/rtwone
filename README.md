@@ -4,7 +4,7 @@
 
 ### Backend Engineer · Automation Builder · AI Enthusiast
 
-Building practical automation systems, AI integrations, and reliable developer tools.
+<a href="#english">English</a> · <a href="#bahasa-indonesia">Bahasa Indonesia</a>
 
 [![GitHub followers](https://img.shields.io/github/followers/rtwone?label=Followers&style=flat-square&color=7C3AED)](https://github.com/rtwone)
 [![Profile views](https://komarev.com/ghpvc/?username=rtwone&style=flat-square&color=0891B2)](https://github.com/rtwone)
@@ -14,7 +14,13 @@ Building practical automation systems, AI integrations, and reliable developer t
 
 <br />
 
-## What I Build
+<a name="english"></a>
+
+## English
+
+Building practical automation systems, AI integrations, and reliable developer tools.
+
+### What I Build
 
 <div align="center">
 
@@ -26,7 +32,25 @@ Building practical automation systems, AI integrations, and reliable developer t
 
 <br />
 
-## GitHub Activity
+<a name="bahasa-indonesia"></a>
+
+## Bahasa Indonesia
+
+Membangun sistem otomasi, integrasi AI, dan tools developer yang praktis serta andal.
+
+### Yang Saya Bangun
+
+<div align="center">
+
+| Otomasi | Integrasi AI | Sistem Backend |
+|:---:|:---:|:---:|
+| Bot WhatsApp & Telegram | Solusi OpenAI praktis | API dan layanan andal |
+
+</div>
+
+<br />
+
+## GitHub Activity · Aktivitas GitHub
 
 <div align="center">
 
