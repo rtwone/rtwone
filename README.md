@@ -1,16 +1,22 @@
-<div align="center">
-
-# Irfan Hariyanto
-
-### Backend Engineer · Automation Builder · AI Enthusiast
-
-Building practical automation systems, AI integrations, and reliable developer tools.
-
-[![GitHub followers](https://img.shields.io/github/followers/rtwone?label=Followers&style=flat-square&color=7C3AED)](https://github.com/rtwone)
-[![Profile views](https://komarev.com/ghpvc/?username=rtwone&style=flat-square&color=0891B2)](https://github.com/rtwone)
-[![Open source](https://img.shields.io/badge/Open%20to-collaboration-10B981?style=flat-square)](https://github.com/rtwone)
-
-</div>
+<table width="100%" border="0">
+  <tr>
+    <td><sub>P O R T F O L I O &nbsp; · &nbsp; 0 0 1</sub></td>
+    <td align="right"><sub>B A C K E N D &nbsp; / &nbsp; A I &nbsp; / &nbsp; A U T O M A T I O N</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <br />
+      <h1>Irfan Hariyanto</h1>
+      <hr width="180" align="left" />
+      <p><strong>Backend engineer and automation builder</strong><br />Building practical systems, AI integrations, and reliable developer tools.</p>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td><sub>WHATSAPP · TELEGRAM · OPENAI · REST API</sub></td>
+    <td align="right"><a href="https://github.com/rtwone">github.com/rtwone</a></td>
+  </tr>
+</table>
 
 <br />
 
