@@ -8,36 +8,28 @@
 
 ## TOOLS & SKILLS // STACK
 
-<table width="100%" border="3" cellpadding="10" cellspacing="7">
-  <tr bgcolor="#FDE047">
-    <td align="center" width="20%"><img src="assets/icons/javascript.svg" width="32" alt="JavaScript" /><br /><strong>JAVASCRIPT</strong></td>
-    <td align="center" width="20%"><img src="assets/icons/typescript.svg" width="32" alt="TypeScript" /><br /><strong>TYPESCRIPT</strong></td>
-    <td align="center" width="20%"><img src="assets/icons/csharp.svg" width="32" alt="C#" /><br /><strong>C#</strong></td>
-    <td align="center" width="20%"><img src="assets/icons/nodejs.svg" width="32" alt="NodeJS" /><br /><strong>NODEJS</strong></td>
-    <td align="center" width="20%"><img src="assets/icons/mysql.svg" width="32" alt="MySQL" /><br /><strong>MYSQL</strong></td>
-  </tr>
-  <tr bgcolor="#F9A8D4">
-    <td align="center"><img src="assets/icons/xampp.svg" width="32" alt="XAMPP" /><br /><strong>XAMPP</strong></td>
-    <td align="center"><img src="assets/icons/git.svg" width="32" alt="Git" /><br /><strong>GIT</strong></td>
-    <td align="center"><img src="assets/icons/vscode.svg" width="32" alt="VS Code" /><br /><strong>VS CODE</strong></td>
-    <td align="center"><img src="assets/icons/github-light.svg" width="32" alt="GitHub" /><br /><strong>GITHUB</strong></td>
-    <td align="center"><img src="assets/icons/github-copilot-light.svg" width="32" alt="GitHub Copilot" /><br /><strong>GITHUB COPILOT</strong></td>
-  </tr>
-  <tr bgcolor="#A7F3D0">
-    <td align="center"><img src="assets/icons/figma.svg" width="32" alt="Figma" /><br /><strong>FIGMA</strong></td>
-    <td align="center"><img src="assets/icons/canva.svg" width="32" alt="Canva" /><br /><strong>CANVA</strong></td>
-    <td align="center"><img src="assets/icons/photoshop.svg" width="32" alt="Adobe Photoshop" /><br /><strong>PHOTOSHOP</strong></td>
-    <td align="center"><img src="assets/icons/premiere.svg" width="32" alt="Adobe Premiere" /><br /><strong>PREMIERE</strong></td>
-    <td align="center"><img src="assets/icons/illustrator.svg" width="32" alt="Adobe Illustrator" /><br /><strong>ILLUSTRATOR</strong></td>
-  </tr>
-  <tr bgcolor="#BAE6FD">
-    <td align="center"><img src="assets/icons/coreldraw.svg" width="32" alt="CorelDRAW" /><br /><strong>CORELDRAW</strong></td>
-    <td align="center"><img src="assets/icons/sparkles-icon.svg" width="32" alt="AI tools" /><br /><strong>AI TOOLS</strong></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="assets/icons/javascript.svg" width="42" alt="JavaScript" title="JavaScript" hspace="6" />
+<img src="assets/icons/typescript.svg" width="42" alt="TypeScript" title="TypeScript" hspace="6" />
+<img src="assets/icons/csharp.svg" width="42" alt="C#" title="C#" hspace="6" />
+<img src="assets/icons/nodejs.svg" width="42" alt="NodeJS" title="NodeJS" hspace="6" />
+<img src="assets/icons/mysql.svg" width="42" alt="MySQL" title="MySQL" hspace="6" />
+<img src="assets/icons/xampp.svg" width="42" alt="XAMPP" title="XAMPP" hspace="6" />
+<img src="assets/icons/git.svg" width="42" alt="Git" title="Git" hspace="6" />
+<img src="assets/icons/vscode.svg" width="42" alt="VS Code" title="VS Code" hspace="6" />
+<img src="assets/icons/github-light.svg" width="42" alt="GitHub" title="GitHub" hspace="6" />
+<img src="assets/icons/github-copilot-light.svg" width="42" alt="GitHub Copilot" title="GitHub Copilot" hspace="6" />
+<br />
+<img src="assets/icons/figma.svg" width="42" alt="Figma" title="Figma" hspace="6" />
+<img src="assets/icons/canva.svg" width="42" alt="Canva" title="Canva" hspace="6" />
+<img src="assets/icons/photoshop.svg" width="42" alt="Adobe Photoshop" title="Adobe Photoshop" hspace="6" />
+<img src="assets/icons/premiere.svg" width="42" alt="Adobe Premiere" title="Adobe Premiere" hspace="6" />
+<img src="assets/icons/illustrator.svg" width="42" alt="Adobe Illustrator" title="Adobe Illustrator" hspace="6" />
+<img src="assets/icons/coreldraw.svg" width="42" alt="CorelDRAW" title="CorelDRAW" hspace="6" />
+<img src="assets/icons/sparkles-icon.svg" width="42" alt="AI tools" title="AI tools" hspace="6" />
+
+</div>
 
 <br />
 
