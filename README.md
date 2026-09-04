@@ -6,6 +6,10 @@
 
 <br />
 
+I am an Informatics student interested in technology, design, and building digital projects. I enjoy exploring new things and combining programming skills with visual creativity.
+
+<br />
+
 ## GitHub Activity
 
 <div align="center">
