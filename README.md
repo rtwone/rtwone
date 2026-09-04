@@ -6,6 +6,22 @@
 
 Building practical automation systems, AI integrations, and reliable developer tools.
 
+[![GitHub followers](https://img.shields.io/github/followers/rtwone?label=Followers&style=flat-square&color=7C3AED)](https://github.com/rtwone)
+[![Profile views](https://komarev.com/ghpvc/?username=rtwone&style=flat-square&color=0891B2)](https://github.com/rtwone)
+[![Open source](https://img.shields.io/badge/Open%20to-collaboration-10B981?style=flat-square)](https://github.com/rtwone)
+
+</div>
+
+---
+
+## What I Build
+
+<div align="center">
+
+| Automation | AI Integration | Backend Systems |
+|:---:|:---:|:---:|
+| WhatsApp & Telegram bots | Practical OpenAI solutions | APIs and reliable services |
+
 </div>
 
 ---
