@@ -54,18 +54,6 @@
 
 </div>
 
-<br />
-
-## Arcade Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rtwone/rtwone/output/pacman-contribution-graph.svg" width="100%" alt="Pacman contribution graph" />
-
-<img src="https://raw.githubusercontent.com/rtwone/rtwone/output/bomberman-contribution-graph.svg" width="100%" alt="Bomberman contribution graph" />
-
-</div>
-
 ---
 
 <div align="center">
