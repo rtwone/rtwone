@@ -48,26 +48,30 @@ I am an **Informatics student** interested in **technology**, **design**, and **
 
 ## Technical Skills
 
-<table border="0" cellpadding="7" cellspacing="5">
+<table width="100%" border="0" cellpadding="8" cellspacing="5">
   <tr>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/javascript.svg" width="30" height="30" alt="JavaScript" title="JavaScript" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/typescript.svg" width="30" height="30" alt="TypeScript" title="TypeScript" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/csharp.svg" width="30" height="30" alt="C#" title="C#" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/nodejs.svg" width="30" height="30" alt="NodeJS" title="NodeJS" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/mysql.svg" width="30" height="30" alt="MySQL" title="MySQL" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/xampp.svg" width="30" height="30" alt="XAMPP" title="XAMPP" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/git.svg" width="30" height="30" alt="Git" title="Git" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/vscode.svg" width="30" height="30" alt="VS Code" title="VS Code" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/github-dark.svg" width="30" height="30" alt="GitHub" title="GitHub" /></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/javascript.svg" width="30" height="30" alt="JavaScript" />&nbsp; <strong>JavaScript</strong></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/typescript.svg" width="30" height="30" alt="TypeScript" />&nbsp; <strong>TypeScript</strong></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/csharp.svg" width="30" height="30" alt="C#" />&nbsp; <strong>C#</strong></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/nodejs.svg" width="30" height="30" alt="NodeJS" />&nbsp; <strong>NodeJS</strong></td>
   </tr>
   <tr>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/github-copilot-dark.svg" width="30" height="30" alt="GitHub Copilot" title="GitHub Copilot" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/figma.svg" width="30" height="30" alt="Figma" title="Figma" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/canva.svg" width="30" height="30" alt="Canva" title="Canva" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/photoshop.svg" width="30" height="30" alt="Adobe Photoshop" title="Adobe Photoshop" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/premiere.svg" width="30" height="30" alt="Adobe Premiere" title="Adobe Premiere" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/illustrator.svg" width="30" height="30" alt="Adobe Illustrator" title="Adobe Illustrator" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/coreldraw.svg" width="30" height="30" alt="CorelDRAW" title="CorelDRAW" /></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/mysql.svg" width="30" height="30" alt="MySQL" />&nbsp; <strong>MySQL</strong></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/xampp.svg" width="30" height="30" alt="XAMPP" />&nbsp; <strong>XAMPP</strong></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/git.svg" width="30" height="30" alt="Git" />&nbsp; <strong>Git</strong></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/vscode.svg" width="30" height="30" alt="VS Code" />&nbsp; <strong>VS Code</strong></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/github-dark.svg" width="30" height="30" alt="GitHub" />&nbsp; <strong>GitHub</strong></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/github-copilot-dark.svg" width="30" height="30" alt="GitHub Copilot" />&nbsp; <strong>GitHub Copilot</strong></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/figma.svg" width="30" height="30" alt="Figma" />&nbsp; <strong>Figma</strong></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/canva.svg" width="30" height="30" alt="Canva" />&nbsp; <strong>Canva</strong></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/photoshop.svg" width="30" height="30" alt="Adobe Photoshop" />&nbsp; <strong>Photoshop</strong></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/premiere.svg" width="30" height="30" alt="Adobe Premiere" />&nbsp; <strong>Premiere</strong></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/illustrator.svg" width="30" height="30" alt="Adobe Illustrator" />&nbsp; <strong>Illustrator</strong></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/coreldraw.svg" width="30" height="30" alt="CorelDRAW" />&nbsp; <strong>CorelDRAW</strong></td>
   </tr>
 </table>
 
