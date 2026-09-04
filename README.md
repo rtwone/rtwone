@@ -12,10 +12,10 @@ I am an **Informatics student** interested in **technology**, **design**, and **
 
 <div align="left">
 
-<a href="https://www.linkedin.com/in/irfanhariyanto/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:irfanhariyanto317@gmail.com"><img src="https://img.shields.io/badge/Email-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://instagram.com/irfvnny"><img src="https://img.shields.io/badge/Instagram-C026D3?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://wa.me/628988898838"><img src="https://img.shields.io/badge/WhatsApp-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.linkedin.com/in/irfanhariyanto/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:irfnhariyanto317@gmail.com"><img src="https://img.shields.io/badge/Email-E11D48?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://instagram.com/irfvnny"><img src="https://img.shields.io/badge/Instagram-C026D3?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://wa.me/628988898838"><img src="https://img.shields.io/badge/WhatsApp-16A34A?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 </div>
 
