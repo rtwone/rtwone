@@ -6,7 +6,7 @@
 
 <br />
 
-I am an Informatics student interested in technology, design, and building digital projects. I enjoy exploring new things and combining programming skills with visual creativity. I am based in Sumenep, Indonesia, and currently studying Informatics Engineering at Universitas Wiraraja. I am open to collaboration and new opportunities to work together.
+I am an **Informatics student** interested in **technology**, **design**, and **building digital projects**. I enjoy exploring new things and combining programming skills with visual creativity. I am based in **Sumenep, Indonesia**, and currently studying **Informatics Engineering** at **Universitas Wiraraja**. I am **open to collaboration** and **new opportunities** to work together.
 
 <br />
 
