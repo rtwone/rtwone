@@ -57,10 +57,10 @@ I am an **Informatics student** interested in **technology**, **design**, and **
     <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/xampp.svg" width="30" height="30" alt="XAMPP" title="XAMPP" /></td>
     <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/git.svg" width="30" height="30" alt="Git" title="Git" /></td>
     <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/vscode.svg" width="30" height="30" alt="VS Code" title="VS Code" /></td>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/github-light.svg" width="30" height="30" alt="GitHub" title="GitHub" /></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/github-dark.svg" width="30" height="30" alt="GitHub" title="GitHub" /></td>
   </tr>
   <tr>
-    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/github-copilot-light.svg" width="30" height="30" alt="GitHub Copilot" title="GitHub Copilot" /></td>
+    <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/github-copilot-dark.svg" width="30" height="30" alt="GitHub Copilot" title="GitHub Copilot" /></td>
     <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/figma.svg" width="30" height="30" alt="Figma" title="Figma" /></td>
     <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/canva.svg" width="30" height="30" alt="Canva" title="Canva" /></td>
     <td bgcolor="#FFFFFF" style="border: 2px solid #111111; border-radius: 8px;"><img src="assets/icons/photoshop.svg" width="30" height="30" alt="Adobe Photoshop" title="Adobe Photoshop" /></td>
