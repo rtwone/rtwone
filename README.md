@@ -35,11 +35,11 @@ I am an **Informatics student** interested in **technology**, **design**, and **
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=rtwone&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="100%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=rtwone&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=1180" alt="Irfan's GitHub stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=rtwone&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Irfan's GitHub stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=rtwone&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="100%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=rtwone&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=1180" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=rtwone&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
 </picture>
 
 </div>
@@ -84,7 +84,7 @@ I am an **Informatics student** interested in **technology**, **design**, and **
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rtwone/rtwone/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rtwone/rtwone/output/snake-light.svg" />
-  <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rtwone/rtwone/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rtwone/rtwone/output/snake-light.svg" />
 </picture>
 
 </div>
