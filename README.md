@@ -8,7 +8,7 @@
 
 ## TOOLS & SKILLS // STACK
 
-<div align="center">
+<div align="left">
 
 <img src="assets/icons/javascript.svg" width="30" alt="JavaScript" title="JavaScript" hspace="6" />
 <img src="assets/icons/typescript.svg" width="30" alt="TypeScript" title="TypeScript" hspace="6" />
