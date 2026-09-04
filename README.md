@@ -6,15 +6,38 @@
 
 <br />
 
-## What I Build
+## Tools & Skills
 
-<div align="center">
-
-| Automation | AI Integration | Backend Systems |
-|:---:|:---:|:---:|
-| WhatsApp & Telegram bots | Practical OpenAI solutions | APIs and reliable services |
-
-</div>
+<table width="100%" border="1" cellpadding="8" cellspacing="6">
+  <tr>
+    <td align="center" width="20%"><img src="assets/icons/javascript.svg" width="32" alt="JavaScript" /><br /><strong>JavaScript</strong></td>
+    <td align="center" width="20%"><img src="assets/icons/typescript.svg" width="32" alt="TypeScript" /><br /><strong>TypeScript</strong></td>
+    <td align="center" width="20%"><img src="assets/icons/csharp.svg" width="32" alt="C#" /><br /><strong>C#</strong></td>
+    <td align="center" width="20%"><img src="assets/icons/nodejs.svg" width="32" alt="NodeJS" /><br /><strong>NodeJS</strong></td>
+    <td align="center" width="20%"><img src="assets/icons/mysql.svg" width="32" alt="MySQL" /><br /><strong>MySQL</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/xampp.svg" width="32" alt="XAMPP" /><br /><strong>XAMPP</strong></td>
+    <td align="center"><img src="assets/icons/git.svg" width="32" alt="Git" /><br /><strong>Git</strong></td>
+    <td align="center"><img src="assets/icons/vscode.svg" width="32" alt="VS Code" /><br /><strong>VS Code</strong></td>
+    <td align="center"><img src="assets/icons/github-light.svg" width="32" alt="GitHub" /><br /><strong>GitHub</strong></td>
+    <td align="center"><img src="assets/icons/github-copilot-light.svg" width="32" alt="GitHub Copilot" /><br /><strong>GitHub Copilot</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/figma.svg" width="32" alt="Figma" /><br /><strong>Figma</strong></td>
+    <td align="center"><img src="assets/icons/canva.svg" width="32" alt="Canva" /><br /><strong>Canva</strong></td>
+    <td align="center"><img src="assets/icons/photoshop.svg" width="32" alt="Adobe Photoshop" /><br /><strong>Photoshop</strong></td>
+    <td align="center"><img src="assets/icons/premiere.svg" width="32" alt="Adobe Premiere" /><br /><strong>Premiere</strong></td>
+    <td align="center"><img src="assets/icons/illustrator.svg" width="32" alt="Adobe Illustrator" /><br /><strong>Illustrator</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/coreldraw.svg" width="32" alt="CorelDRAW" /><br /><strong>CorelDRAW</strong></td>
+    <td align="center"><img src="assets/icons/sparkles-icon.svg" width="32" alt="AI tools" /><br /><strong>AI Tools</strong></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 <br />
 
