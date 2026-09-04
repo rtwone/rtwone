@@ -59,6 +59,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/rtwone/rtwone/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
