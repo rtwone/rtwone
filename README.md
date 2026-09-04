@@ -16,6 +16,7 @@ I am an **Informatics student** interested in **technology**, **design**, and **
 <a href="mailto:irfnhariyanto317@gmail.com"><img src="https://img.shields.io/badge/Email-E11D48?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://instagram.com/irfvnny"><img src="https://img.shields.io/badge/Instagram-C026D3?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://wa.me/628988898838"><img src="https://img.shields.io/badge/WhatsApp-16A34A?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<img src="https://komarev.com/ghpvc/?username=rtwone&style=flat&color=0891B2" alt="Profile views" />
 
 </div>
 
