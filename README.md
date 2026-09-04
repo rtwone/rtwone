@@ -12,7 +12,7 @@ Building practical automation systems, AI integrations, and reliable developer t
 
 </div>
 
----
+<br />
 
 ## What I Build
 
@@ -24,7 +24,7 @@ Building practical automation systems, AI integrations, and reliable developer t
 
 </div>
 
----
+<br />
 
 ## GitHub Activity
 
@@ -48,7 +48,7 @@ Building practical automation systems, AI integrations, and reliable developer t
 
 </div>
 
----
+<br />
 
 ## Contribution Activity
 
