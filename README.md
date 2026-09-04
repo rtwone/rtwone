@@ -27,8 +27,6 @@
 <img src="assets/icons/premiere.svg" width="30" height="30" alt="Adobe Premiere" title="Adobe Premiere" hspace="6" />
 <img src="assets/icons/illustrator.svg" width="30" height="30" alt="Adobe Illustrator" title="Adobe Illustrator" hspace="6" />
 <img src="assets/icons/coreldraw.svg" width="30" height="30" alt="CorelDRAW" title="CorelDRAW" hspace="6" />
-<img src="assets/icons/sparkles-icon.svg" width="30" height="30" alt="AI tools" title="AI tools" hspace="6" />
-
 </div>
 
 <br />
