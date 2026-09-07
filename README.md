@@ -49,9 +49,7 @@ I am an **Informatics student** interested in **technology**, **design**, and **
 ## Technical Skills
 
 <p align="left">
-  <a href="https://skills.syvixor.com/api/icons">
-    <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,csharp,nodejs,mysql,xampp,git,visualstudiocode,visualstudio,github,githubcopilot,figma,canva,adobephotoshop,adobepremierepro,adobeillustrator&perline=8" alt="JavaScript, TypeScript, C#, Node.js, MySQL, XAMPP, Git, Visual Studio Code, Visual Studio, GitHub, GitHub Copilot, Figma, Canva, Adobe Photoshop, Adobe Premiere Pro, and Adobe Illustrator" />
-  </a>
+  <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,csharp,nodejs,mysql,xampp,git,visualstudiocode,visualstudio,github,githubcopilot,figma,canva,adobephotoshop,adobepremierepro,adobeillustrator&perline=8" alt="JavaScript, TypeScript, C#, Node.js, MySQL, XAMPP, Git, Visual Studio Code, Visual Studio, GitHub, GitHub Copilot, Figma, Canva, Adobe Photoshop, Adobe Premiere Pro, and Adobe Illustrator" />
 </p>
 
 <br />
